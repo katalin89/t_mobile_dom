@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(139, 180, 193);
+}
+
+button{
+    background-color: darkslateblue;
+    color: white;
+}
+
+.dispare{
+    display:none;
+}
